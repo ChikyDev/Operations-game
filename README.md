@@ -29,6 +29,7 @@ Ejecución:
 ## Tecnologías usadas
 - Python 3
 - Librería random
+- Librería sys
 
 ## Habilidades aprendidas
 - Uso de bucles (`while`)
